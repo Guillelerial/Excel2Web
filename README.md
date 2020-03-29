@@ -1,7 +1,7 @@
 # Excel2Web
 Enhanced excel table on wordpress based web.
 
-##Description of work
+## Description of work
 The idea is to populate an HTML table representing products of a store with information from an excel file.
 This table will have, at least, the following info:
 Name, Supplier, Origen, Price per unit, Unit base
@@ -17,9 +17,9 @@ This page will also have a section to provide name of customer, city, CP, addres
 
 
 
-##How to Run 
+## How to Run 
 
-###Start php server with
+### Start php server with
 cd path_to_repo
 php -S localhost:8000
 
